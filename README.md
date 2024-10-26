@@ -1,10 +1,11 @@
 # Login and Registration System
 
 <p align="center">
-  <img src="https://i.imgur.com/ZUVQ0Pp.png" alt="Nome da Imagem">
+  <img src="https://i.imgur.com/ZUVQ0Pp.png" width="400" alt="Preview do Sistema">
 </p>
-
+<p align="center">
 This project is a simple web application that offers user login and registration functionalities. It features an attractive and responsive interface with animations and visual effects.
+
 
 ## Features
 
