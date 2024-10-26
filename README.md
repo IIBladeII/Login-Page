@@ -1,25 +1,25 @@
-# Sistema de Login e Registro
+# Login and Registration System
 
-Este projeto é uma aplicação web simples que oferece funcionalidades de login e registro de usuários. Ele apresenta uma interface atraente e responsiva com animações e efeitos visuais.
+This project is a simple web application that offers user login and registration functionalities. It features an attractive and responsive interface with animations and visual effects.
 
-## Características
+## Features
 
-- Interface de usuário moderna e responsiva
-- Formulário de login com animação de título
-- Formulário de registro
-- Alternância suave entre as telas de login e registro
-- Efeitos visuais em gradiente e hover
-- Design adaptável para dispositivos móveis
+- Modern and responsive user interface
+- Login form with title animation
+- Registration form
+- Smooth toggle between login and registration screens
+- Gradient and hover visual effects
+- Mobile-friendly design
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 
-## Estrutura do Projeto
+## Project Structure
 
-projeto/
+project/
 │
 ├── index.html
 ├── css/
@@ -29,38 +29,35 @@ projeto/
 │ └── toggle.js
 └── README.md
 
+## How to Use
 
-## Como Usar
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
 
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-
-## Funcionalidades
+## Functionalities
 
 ### Login
-- Os usuários podem inserir seu nome de usuário e senha.
-- Uma animação de digitação ocorre no título quando o usuário começa a digitar.
+- Users can enter their username and password.
+- A typing animation occurs on the title when the user starts typing.
 
-### Registro
-- Os novos usuários podem criar uma conta fornecendo um nome de usuário e senha.
-- Há uma verificação de confirmação de senha.
+### Registration
+- New users can create an account by providing a username and password.
+- There is a password confirmation check.
 
-### Alternância entre Login e Registro
-- Os usuários podem alternar facilmente entre as telas de login e registro.
+### Toggle between Login and Registration
+- Users can easily switch between login and registration screens.
 
-## Personalização
+## Customization
 
-Você pode personalizar facilmente o estilo da aplicação modificando o arquivo `css/index.css`. As cores principais usadas são:
+You can easily customize the application's style by modifying the `css/index.css` file. The main colors used are:
 
-- Gradiente de fundo: `rgb(102, 4, 102)` para `rgb(0, 0, 0)`
-- Texto em gradiente: `#ff00ff` para `#00ffff`
+- Background gradient: `rgb(102, 4, 102)` to `rgb(0, 0, 0)`
+- Text gradient: `#ff00ff` to `#00ffff`
 
+## License
 
-## Licença
+This project is under the [MIT license](https://opensource.org/licenses/MIT).
 
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
+## Copyright
 
-## Direitos Autorais
-
-© [Blade](https://github.com/IIBladeII), [2024]. Todos os direitos reservados.
-
+© [Blade](https://github.com/IIBladeII), [2024]. All rights reserved.
