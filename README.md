@@ -65,5 +65,5 @@ Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
 ## Direitos Autorais
 
-© IIBladeII, [2024]. Todos os direitos reservados.
+© Blade , [2024]. Todos os direitos reservados.
 Para mais informações, visite https://github.com/IIBladeII.
