@@ -1,3 +1,5 @@
+/* © [Blade](https://github.com/IIBladeII), [2024]. Todos os direitos reservados. */
+
 document.addEventListener('DOMContentLoaded', function() {
     const loginContainer = document.querySelector('.container');
     const registerArea = document.getElementById('registerArea');
