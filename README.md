@@ -55,9 +55,6 @@ Você pode personalizar facilmente o estilo da aplicação modificando o arquivo
 - Gradiente de fundo: `rgb(102, 4, 102)` para `rgb(0, 0, 0)`
 - Texto em gradiente: `#ff00ff` para `#00ffff`
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
