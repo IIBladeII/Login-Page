@@ -1,3 +1,5 @@
+<div align="center">
+
 # Login and Registration System
 
 <p align="center">
@@ -6,6 +8,7 @@
 <p align="center">
 This project is a simple web application that offers user login and registration functionalities. It features an attractive and responsive interface with animations and visual effects.
 
+</div>
 
 ## Features
 
