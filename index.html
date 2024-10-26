@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="/css/index.css">
+</head>
+<body>
+    <div class="container">
+        <h2 id="title">Login</h2>
+        
+        <br>
+        <form id="loginForm">
+            <div class="input-group">
+                <label for="username">Username</label><br>
+                <input type="text" id="username" name="username" required>
+            </div> 
+            <br>
+            <div class="input-group">
+                <label for="password">Password</label><br>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <div class="input-group"> <br>
+                <input type="checkbox" id="terms" name="terms" required style="width: auto;">
+                <label for="terms" style="display: inline; font-weight: normal; text-transform: none; letter-spacing: normal;">I accept the terms and conditions</label>
+            </div>
+            <button type="submit">Enter</button>
+        </form>
+        <p id="loginMessage">Don't have an account yet? <a href="#" id="toggleRegister">Register here</a></p>
+    </div>
+    
+    <div id="registerArea" style="display: none;">
+        <h2>Register</h2>
+        <br>
+        <form id="registerForm">
+            <div class="input-group">
+                <label for="newUsername">New username</label><br>
+                <input type="text" id="newUsername" name="newUsername" required>
+            </div>
+            <br>
+            <div class="input-group">
+                <label for="newPassword">New password</label><br>
+                <input type="password" id="newPassword" name="newPassword" required>
+            </div>
+            <br>
+            <div class="input-group">
+                <label for="confirmPassword">Confirm password</label><br>
+                <input type="password" id="confirmPassword" name="confirmPassword" required>
+            </div>
+            <button type="submit">Register</button>
+        </form>
+        <p id="registerMessage">Already have an account? <a href="#" id="toggleLogin">Click here to login</a></p>
+    </div>
+
+    <script src="/js/login.js"></script>
+    <script src="/js/toggle.js"></script>
+</body>
+</html>
