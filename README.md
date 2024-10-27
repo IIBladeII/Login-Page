@@ -3,7 +3,7 @@
 # Login and Registration System
 
 <p>
-  <img src="https://i.imgur.com/ZUVQ0Pp.png" width="400" alt="Preview do Sistema">
+  <img src="https://i.imgur.com/VUu3LEF.png" width="400" alt="Preview do Sistema">
 </p>
 
 # Animated Login and Registration System
@@ -42,11 +42,11 @@ project/
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/IIBladeII/Login-Page.git
    ```
 2. Navigate to the project directory:
    ```
-   cd your-repo-name
+   cd Login-Page
    ```
 3. Open `index.html` in your web browser to view the application.
 
@@ -56,16 +56,12 @@ You can easily customize the look and feel of the application by modifying the `
 
 ## JavaScript Functionality
 
-- `toggle.js`: Handles the switching between login and registration forms, and includes page load animations.
-- `login.js`: Manages form submissions and includes the title animation feature.
+- `toggle.js`: Handles the switching between login and registration forms, and includes page load animations,manages form submissions and includes the title animation feature.
+
 
 ## Browser Compatibility
 
 This application is designed to work on modern web browsers including Chrome, Firefox, Safari, and Edge.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-username/your-repo-name/issues) if you want to contribute.
 
 ## License
 
@@ -75,7 +71,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 [Blade](https://github.com/IIBladeII)
 
-## Acknowledgments
-
-- Special thanks to all contributors and supporters of this project.
-- Inspired by modern web design trends and interactive user interfaces.
